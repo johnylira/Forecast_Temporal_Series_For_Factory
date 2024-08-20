@@ -9,7 +9,6 @@ Visualization: Plot the results to provide clear insights into the trends and fo
 Requirements
 To run the scripts, you need the following libraries:
 
-- pandas
 - numpy
 - matplotlib
 - seaborn
@@ -27,7 +26,7 @@ Make sure all dependencies are installed using pip:
 Before running the forecasting scripts, you need to install the required Python libraries. You can install all dependencies by running the following command in your terminal:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels sklearn pmdarima asyncio datetime missingn
+pip install pandas matplotlib seaborn scipy statsmodels sklearn pmdarima asyncio datetime missingn
 ```
 
 ## Data Structure
